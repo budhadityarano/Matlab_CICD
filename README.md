@@ -1,2 +1,2 @@
-# Matlab_CICD
-This repository gives an practical idea to how run your whole MATLAB / Simulink workflow in gitlab in devops way
+# Simulink CI/CD Demo
+This project demonstrates CI/CD for MATLAB/Simulink.
